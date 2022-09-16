@@ -1,8 +1,18 @@
 {"user": [
     {
       "id": 1,
-      "email": "Sinicin@example.com",
-      "password": "+79867543999"
+      "email": "ivanov@gmail.com",
+      "password": "novosibirsk123"
+    },
+    {
+      "id": 2,
+      "email": "sidorov@gmail.com",
+      "password": "moscow123"
+    },
+    {
+      "id": 3,
+      "email": "katkov@gmail.com",
+      "password": "tomsk123"
     }
 ]
 }
