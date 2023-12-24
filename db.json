@@ -1,21 +1,21 @@
 {"user": [
     {
       "id": 1,
-      "email": "ivanov@gmail.com",
-      "password": "novosibirsk123",
-      "name": "Иван"
+      "email": "user1",
+      "password": "user1",
+      "name": "Ivan"
     },
     {
       "id": 2,
-      "email": "sidorov@gmail.com",
-      "password": "moscow123",
-      "name": "Виктор"
+      "email": "user2",
+      "password": "user2",
+      "name": "Victor"
     },
     {
       "id": 3,
-      "email": "katkov@gmail.com",
-      "password": "tomsk123",
-      "name": "Владимир"
+      "email": "user3",
+      "password": "user3",
+      "name": "Roman"
     }
 ]
 }
